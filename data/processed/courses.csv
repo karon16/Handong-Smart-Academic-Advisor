@@ -1,0 +1,59 @@
+Index,Course Code,Course Name,Semester,Year,CS/AI Required,EE Required
+01,ECE10002,C-Programming,2,1,0,0
+02,ECE10005,Coding Studio,2,1,0,0
+03,ECE10020,Introduction to Engineering Design,2,1,1,1
+04,ECE20010,Data Structure,1,2,1,0
+05,ECE20016,Introduction to JAVA Programming,1,2,0,0
+06,ECE20025,Programming Studio,1,2,0,0
+07,ECE20057,Logic Design,1,2,0,0
+08,ECE20064,Circuit Theory,1,2,0,0
+09,ECE20065,Basic Circuit and Logic Laboratory,1,2,0,1
+10,ECE20006,Signal and System,2,2,0,0
+11,ECE20009,Web Service Development,2,2,0,0
+12,ECE20021,Computer Architecture and Organization,2,2,1,0
+13,ECE20022,Computer Vision,2,2,0,0
+14,ECE20026,Open Source Studio,2,2,1,0
+15,ECE20027,System Programming,2,2,0,0
+16,ECE20042,Discrete Mathematics,2,2,0,0
+17,ECE20063,Digital System Design,2,2,0,0
+18,ECE30002,Mobile App Development,1,3,0,0
+19,ECE30008,Introduction to AI,1,3,1,0
+20,ECE30011,Algorithm Analysis,1,3,0,0
+21,ECE30012,Object-Oriented Design Pattern,1,3,0,0
+22,ECE30021,Operating System,1,3,1,0
+23,ECE30030,Database,1,3,0,0
+24,ECE30039,Vocation and Career Planning,1,3,0,0
+25,ECE30051,Electronic Circuits 1,1,3,0,0
+26,ECE30070,Microprocessor Application,1,3,0,0
+27,ECE30003,IoT System Design,2,3,0,0
+28,ECE30006,Programming Language Theory,2,3,0,0
+29,ECE30018,Problem Solving Studio,2,3,0,0
+30,ECE30040,IT Startup Practicum,2,3,0,0
+31,ECE30078,Intelligent Robot Control,2,3,0,0
+32,ECE30086,Computer Networks,2,3,0,0
+33,ECE30087,Probability and Random Processes,2,3,0,0
+34,ECE40010,Software Engineering,1,4,0,0
+35,ECE40012,Compiler Theory,1,4,0,0
+36,ECE40027,Post-capstone Research,1,4,0,0
+37,ECE40035,Introduction to Deep Learning,1,4,0,0
+38,ECE40042,Computer Graphics,1,4,0,0
+39,ECE40066,IoT Laboratories,1,4,0,0
+40,ECE40097,Special Topic 1,1,4,0,0
+41,ECE40013,Intelligent Signal Processing,2,4,0,0
+42,ECE40014,Applied Project Studio,2,4,0,0
+43,ECE40044,Computer Security,2,4,0,0
+44,ECE40049,Deep Learning for Image Processing,2,4,0,0
+45,ECE40052,Integrated Circuit Design,2,4,0,0
+46,ECE40087,Machine Learning,2,4,0,0
+47,ECE20053,Basic Circuit Theory 2,2,2,0,0
+48,ECE20061,Electromagnetic,2,2,0,0
+49,ECE20066,Basic Signal Processing Laboratory,2,2,0,1
+50,ECE30054,Practicing the Electronic Circuits and Communication System,1,3,0,0
+51,ECE30063,Semiconductor Physics,1,3,0,0
+52,ECE30083,Principles of Communication,1,3,0,0
+53,ECE30052,Electronic Circuits 2,2,3,0,0
+54,ECE30055,Circuit Design and Fabrication,2,3,0,0
+55,ECE40008,RF Circuit Design,1,4,0,0
+56,ECE40081,Digital Communication,1,4,0,0
+57,ECE40082,Digital Signal Processing,1,4,0,0
+58,ECE40065,Semiconductor Processing and Nano Technology,2,4,0,0
