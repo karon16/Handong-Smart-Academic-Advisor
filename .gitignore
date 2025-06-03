@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+HSAA-env/
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Data and report files
+data/*.csv
+data/*.xlsx
+*.log
+*.out
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Compiled source
+*.class
+
+# Jupyter Notebook runtime
+*.nbconvert.ipynb
+
+# Reports and slides (generated)
+report/*.pdf
+slides/*.pdf
+
+# Environment files
+*.env
+.env*
+
+# Python environment lock files
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Notebook execution artifacts
+*.nbconvert.ipynb
+
+# Ignore requirements dump file if generated from pip freeze
+requirements-freeze.txt
